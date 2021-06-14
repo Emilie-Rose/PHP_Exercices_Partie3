@@ -10,7 +10,7 @@
 
     <h2 class="">Exercice 1</h2>
     <p style="color:#8080FF">Créez une fonction qui retourne un booléen.</p>
-    <!-- boolean 0=false -->
+    <!-- boolean 0 = false -->
     <?php
         function displayBoolean() {
             return true;
