@@ -9,11 +9,10 @@
     <h1>Exercices PHP - Partie 2</h1>
 
     <h2 class="">Exercice 4</h2>
-    <p style="color:#8080FF">Créez une fonction qui retourne deux nombres 
-    aléatoire allant de 1 à 15. 
-    Si le premier nombre est plus grand que le deuxième affichez "le premier 
-    nombre est plus grand que le deuxième" sinon si le deuxième nombre est 
-    plus grand affichez "le premier nombre est plus petit que le deuxième". 
+    <p style="color:#8080FF">Créez une fonction qui retourne deux nombres aléatoire allant de 1 à 15. 
+    Si le premier nombre est plus grand que le deuxième affichez "le premier nombre est plus grand 
+    que le deuxième" sinon si le deuxième nombre est plus grand affichez "le premier nombre est plus 
+    petit que le deuxième". 
     Affichez "les deux nombres sont égaux" si les deux nombres sont identiques.
     </p>
     <?php

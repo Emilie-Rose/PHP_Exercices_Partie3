@@ -9,8 +9,7 @@
     <h1>Exercices PHP - Partie 2</h1>
 
     <h2 class="">Exercice 5</h2>
-    <p style="color:#8080FF">Créez une fonction qui retourne une chaîne 
-    de caractère et un nombre aléatoire.</p>
+    <p style="color:#8080FF">Créez une fonction qui retourne une chaîne de caractère et un nombre aléatoire.</p>
     <?php
         function display(){
             $i = rand(1,30);
